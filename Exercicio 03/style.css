@@ -89,7 +89,7 @@ p {
 .vantagens-item {
     display: grid;
     grid-template-columns: auto 1fr;
-    gap: 10px 20px;
+    gap: 10px 20px; /* linha e coluna */
     padding: 20px;
 }
 .vantagens-item p {
